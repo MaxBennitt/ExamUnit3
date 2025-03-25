@@ -108,3 +108,5 @@ Sixth commit: First off I started with searching up the book from the challenge 
     '🜄 ♃ ☉ 🜁 ♀ 🜃 ☿ ☿ ♀ ♄ 🜃 ♂ 🜂 ☿ ♃ ☉ ♀ ☉ 🜄 ☽ 🜃 ♀ ♀ ♄ ♃ ♀ 🜂 ☉ ☉\n' +
     '☉ ☉ 🜂 ♂ 🜁 🜁 ♄ ☿ ♂ ☿ ☿ ☉ ☽ 🜃 ♀ ♄ ♃ ♀ ♀ 🜃 ♀ ♂ 🜁 ♂ 🜂 ♄ ☿ ☿ ♀\n' +
     '☿ 🜄 ♄ ♃ ♄ ☽ ♃ ♀ ♃ 🜃 🜂 🜄 🜂 ☽ ☿ ☉ ☿ 🜂 ☽ 🜂 ♃ ♂ 🜄 🜃 ☿ ♄ ♄ ☽ 🜂'
+
+    Seventh commit: First I just want to mention "elixirs, said to restore itality" a funny spelling mistake unless the elixir actually make you more Italian haha. After a lot of thinking I've tried to sort out all of the capital letters, a solution I've done in an earlier challenge, and got the result: "HOPSUMDTLKWIBCNYERGJQXVZFA". However I struggled to find the connection with the capital letters and the encoded words in the next part, perhaps with more time I could've solve it? (reminder that challenge 1 & 2 answers have been changed to text because the challenges only need to be completed once.)
