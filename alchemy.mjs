@@ -52,7 +52,13 @@ async function main() {
         }
         const meanings = interpretSymbols(symbols);
 
-        await submitAnswer(meanings);
+//        await submitAnswer(meanings);
+
+        const poem = "Still flows the Icy Lethe, Veiling all 'neath Eldritch Rime.";
+        const regex = /[A-Z]/g;
+        const hiddenPoemCode = poem.match(regex).join('');
+        await submitAnswer(hiddenPoemCode);
+
     } catch (error) {
     console.error(error);
     throw(error);
